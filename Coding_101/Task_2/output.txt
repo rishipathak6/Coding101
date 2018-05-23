@@ -1,0 +1,17 @@
+  <title>playground/HelloWorld.txt at master · php/playground · GitHub</title>
+    <link rel="canonical" href="https://github.com/php/playground/blob/master/HelloWorld.txt" data-pjax-transient>
+          <a class="header-search-scope no-underline" href="/php/playground/blob/master/HelloWorld.txt">This repository</a>
+              <a class="text-bold text-white no-underline" href="/login?return_to=%2Fphp%2Fplayground%2Fblob%2Fmaster%2FHelloWorld.txt" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/php/playground/blob/b118d91d85040c400690904a5408f7e4d4eb48fd/HelloWorld.txt">Permalink</a>
+               href="/php/playground/blob/dsp/HelloWorld.txt"
+               href="/php/playground/blob/johannes/HelloWorld.txt"
+               href="/php/playground/blob/master/HelloWorld.txt"
+               href="/php/playground/blob/test_empty_branch/HelloWorld.txt"
+               href="/php/playground/blob/test/HelloWorld.txt"
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/php/playground"><span>playground</span></a></span></span><span class="separator">/</span><strong class="final-path">HelloWorld.txt</strong>
+  <include-fragment src="/php/playground/contributors/master/HelloWorld.txt" class="commit-tease">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/php/playground/raw/master/HelloWorld.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/php/playground/blame/master/HelloWorld.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/php/playground/commits/master/HelloWorld.txt">History</a>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">Hello, World!</td>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/php/playground/blame/b118d91d85040c400690904a5408f7e4d4eb48fd/HelloWorld.txt">View git blame</a></li>
